@@ -1,136 +1,89 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dashboard | Pricy Premium</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <link rel="stylesheet" href="dashboard.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Produits Davines</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 1rem;
+      margin: 0;
+    }
+    h1 {
+      font-size: 1.5rem;
+      text-align: center;
+    }
+    label, select, #details {
+      display: block;
+      width: 100%;
+      margin: 0.5rem 0;
+    }
+    select {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    #details {
+      background: #f9f9f9;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+    @media (min-width: 600px) {
+      body {
+        max-width: 600px;
+        margin: auto;
+      }
+    }
+  </style>
 </head>
 <body>
-  <div class="dashboard-container">
-    <aside class="sidebar">
-      <h2>Pricy</h2>
-      <nav>
-        <ul>
-          <li><a href="#form">Ajouter</a></li>
-          <li><a href="#liste">Prestations</a></li>
-          <li><a href="#stats">Statistiques</a></li>
-        </ul>
-      </nav>
-    </aside>
-    <main class="content">
-      <header><h1>Dashboard Premium</h1></header>
+  <h1>Produits disponibles</h1>
 
-      <section class="card" id="form">
-        <h2>Ajouter une prestation</h2>
-        <form id="form-prestation">
-          <label for="nom">Nom de la prestation</label>
-          <input type="text" id="nom" required />
+  <label for="produits">Choisir un produit :</label>
+  <select id="produits">
+    <option value="">-- Sélectionner --</option>
+  </select>
 
-          <label for="duree">Durée (heures)</label>
-          <input type="number" id="duree" required />
-
-          <label for="produits">Produits utilisés</label>
-          <select id="produits" multiple></select>
-
-          <button type="submit">Ajouter</button>
-        </form>
-      </section>
-
-      <section class="card" id="liste">
-        <h2>Liste des prestations</h2>
-        <table>
-          <thead>
-            <tr>
-              <th>Nom</th>
-              <th>Durée</th>
-              <th>Coût produits</th>
-              <th>Prix conseillé</th>
-            </tr>
-          </thead>
-          <tbody id="prestation-liste"></tbody>
-        </table>
-      </section>
-
-      <section class="card" id="stats">
-        <h2>Statistiques visuelles</h2>
-        <canvas id="statChart" height="100"></canvas>
-      </section>
-    </main>
-  </div>
+  <div id="details"></div>
 
   <script>
-    const coutHoraire = 50;
-    const prestations = [];
     let produitsListe = [];
 
     fetch("produits-davines.json")
-      .then((res) => res.json())
-      .then((data) => {
+      .then(res => {
+        if (!res.ok) throw new Error("Fichier JSON non trouvé");
+        return res.json();
+      })
+      .then(data => {
         produitsListe = data;
-        const select = document.getElementById("produits");
-        data.forEach((p) => {
-          const option = document.createElement("option");
-          option.value = p.nom;
-          option.textContent = `${p.nom} - ${p.prix}€`;
-          select.appendChild(option);
-        });
+        remplirSelecteurs();
+      })
+      .catch(err => {
+        console.error("Erreur chargement JSON:", err);
+        alert("⚠️ Impossible de charger les produits. Vérifie que tu ouvres via localhost.");
       });
 
-    document.getElementById("form-prestation").addEventListener("submit", function (e) {
-      e.preventDefault();
+    function remplirSelecteurs() {
+      const select = document.getElementById("produits");
+      select.innerHTML = "<option value=''>-- Sélectionner --</option>";
+      produitsListe.forEach(p => {
+        const opt = new Option(`${p.nom} - ${p.prix}€`, p.nom);
+        select.add(opt);
+      });
+    }
 
-      const nom = document.getElementById("nom").value;
-      const duree = parseFloat(document.getElementById("duree").value);
-      const produits = Array.from(document.getElementById("produits").selectedOptions).map(opt => opt.value);
-
-      const coutProduits = produits.reduce((sum, nomProduit) => {
-        const p = produitsListe.find(prod => prod.nom === nomProduit);
-        return sum + (p ? p.prix : 0);
-      }, 0);
-
-      const prixConseille = (duree * coutHoraire) + coutProduits;
-
-      prestations.push({ nom, duree, coutProduits, prixConseille });
-      updatePrestationListe();
-      updateChart();
-      e.target.reset();
+    document.getElementById("produits").addEventListener("change", function () {
+      const produit = produitsListe.find(p => p.nom === this.value);
+      if (produit) {
+        document.getElementById("details").innerHTML = `
+          <h2>${produit.nom}</h2>
+          <p><strong>Prix :</strong> ${produit.prix}€</p>
+          <p><strong>Catégorie :</strong> ${produit.categorie}</p>
+        `;
+      } else {
+        document.getElementById("details").innerHTML = "";
+      }
     });
-
-    function updatePrestationListe() {
-      const tbody = document.getElementById("prestation-liste");
-      tbody.innerHTML = "";
-      prestations.forEach(p => {
-        tbody.innerHTML += `<tr><td>${p.nom}</td><td>${p.duree}h</td><td>${p.coutProduits.toFixed(2)}€</td><td>${p.prixConseille.toFixed(2)}€</td></tr>`;
-      });
-    }
-
-    function updateChart() {
-      const labels = prestations.map(p => p.nom);
-      const data = prestations.map(p => p.prixConseille);
-      const ctx = document.getElementById("statChart").getContext("2d");
-      if (window.statChart) window.statChart.destroy();
-      window.statChart = new Chart(ctx, {
-        type: "bar",
-        data: {
-          labels,
-          datasets: [{
-            label: "Prix conseillé (€)",
-            backgroundColor: "#4caf50",
-            data
-          }]
-        },
-        options: {
-          responsive: true,
-          scales: {
-            y: {
-              beginAtZero: true
-            }
-          }
-        }
-      });
-    }
   </script>
 </body>
 </html>
