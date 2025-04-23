@@ -1,0 +1,384 @@
+Catégorie de produits,Produit,Quantité restante,Prix de vente unitaire,Valeur marchande,Prix d'achat moyen,Valorisation,Code EAN,Type de stock,Taux de TVA
+OI,OI - shampooing 280ml,2,28,56,13.9,27.8,8004608247630,Stock revente,20.00 %
+OI,OI - milk 135ml,1,34,34,17,17,8004608247715,Stock revente,20.00 %
+OI,OI milk 100ml,0,12,0,,,8004608285205,Stock revente,20.00 %
+OI,OI -  beurre,3,41,123,20.5,61.5,8004608264590,Stock revente,20.00 %
+OI,OI - conditionneur,2,32,64,15.9,31.8,8004608266495,Stock revente,20.00 %
+OI,OI - Elixir de beauté absolue,12,52,624,25.8,309.6,8004608247593,Stock revente,20.00 %
+OI,OI LIQUID LUSTER 300ML,0,42,0,0,0,8004608278450,Stock technique,20.00 %
+HEART OF GLASS,HEART OF GLASS Shampooing,3,27,81,13.1,39.3,8004608271666,Stock revente,20.00 %
+HEART OF GLASS,HEART OF GLASS Sheer glaze,6,33,198,16.5,99,8004608271741,Stock revente,20.00 %
+HEART OF GLASS,HEART OF GLASS Conditionneur,3,33,99,16.4,49.2,8004608271697,Stock revente,20.00 %
+HEART OF GLASS,HEART OF GLASS treatment,6,24,144,11.9,71.4,8004608271727,Stock technique,20.00 %
+WE STAND,Davines - WE STAND/ for regeneration Cheveux et corps,0,16,0,,,8004608279365,Stock revente,20.00 %
+SHAMPOOING SOLIDE,VOLU Shampooing solide,0,20,0,0,0,8004608273141,Stock revente,20.00 %
+SHAMPOOING SOLIDE,DEDE Shampooing solide,2,20,40,10.3,20.6,8004608273134,Stock revente,20.00 %
+MORE INSIDE,Invisible No Gas Spray,2,28,56,13.9,27.8,8004608252146,Stock mixte,20.00 %
+MORE INSIDE,Medium Hold Hair-spray,2,30,60,14.9,29.8,8004608252122,Stock mixte,20.00 %
+MORE INSIDE,Blow dry primer,3,28,84,13.9,41.7,8004608271567,Stock mixte,20.00 %
+MORE INSIDE,Sea Salt Spray,3,28,84,13.9,41.7,8004608258346,Stock mixte,20.00 %
+MORE INSIDE,Curl Building Serum,3,27,81,13.1,39.3,8004608237488,Stock revente,20.00 %
+MORE INSIDE,Curl Building Serum 100ml,3,20,60,10,30,8004608246459,Stock revente,20.00 %
+MORE INSIDE,Invisible Serum (Slept-In),0,26,0,,,8004608237402,Stock revente,20.00 %
+MORE INSIDE,Dry shampoo,2,36,72,17.9,35.8,8004608277408,Stock mixte,20.00 %
+MORE INSIDE,Dry shampoo 100ml,1,12,12,4.45,4.45,8004608282013,Stock mixte,20.00 %
+MORE INSIDE,Spray Dry Wax,1,35,35,17.9,17.9,8004608285816,Stock mixte,20.00 %
+BIJOUX,BIJOUX,-75,12,-900,,,,Stock revente,20.00 %
+ALCHEMIC,Alchemic conditionner argent,3,39,117,19.5,58.5,8004608259060,Stock revente,20.00 %
+ALCHEMIC,Alchemic conditionner doré,2,39,78,19.5,39,8004608258964,Stock revente,20.00 %
+ALCHEMIC,Alchemic conditionner cuivré,3,39,117,19.5,58.5,8004608259022,Stock revente,20.00 %
+ALCHEMIC,Alchemic Creative Conditioner Turquoise 250ml,1,39,39,19.5,19.5,8004608267423,Stock revente,20.00 %
+ALCHEMIC,Alchemic conditionner chocolate,3,39,117,19.5,58.5,,Stock revente,20.00 %
+NATURAL TECH,Well Being Shampooing,0,25,0,0,0,8004608256502,Stock revente,20.00 %
+NATURAL TECH,Well Being Shampooing 100ml,4,21,84,10.5,42,8004608256786,Stock revente,20.00 %
+NATURAL TECH,Well Being Conditionneur,2,23,46,11.3,22.6,8004608230762,Stock revente,20.00 %
+NATURAL TECH,Rebalancing Shampooing,5,25,125,12.4,62,8004608256540,Stock revente,20.00 %
+NATURAL TECH,Rebalancing Shampooing 100ml,18,21,378,10.5,189,8004608279341,Stock revente,20.00 %
+NATURAL TECH,Calming Shampooing,0,25,0,0,0,8004608256519,Stock revente,20.00 %
+NATURAL TECH,Calming Shampooing 100ml,0,21,0,0,0,8004608256793,Stock revente,20.00 %
+NATURAL TECH,Purifying Shampooing,1,25,25,12.4,12.4,8004608236580,Stock revente,20.00 %
+NATURAL TECH,Renewing Shampooing,2,25,50,12.4,24.8,8004608255093,Stock revente,20.00 %
+NATURAL TECH,Renewing Conditionneur Traitement,1,28,28,13.9,13.9,8004608255116,Stock revente,20.00 %
+NATURAL TECH,Detoxifying Shampooing,2,25,50,12.4,24.8,8004608256533,Stock revente,20.00 %
+NATURAL TECH,Energizing  Shampooing,4,25,100,12.4,49.6,8004608255505,Stock revente,20.00 %
+NATURAL TECH,Energizing Super Active,0,91,0,0,0,8004608255567,Stock revente,20.00 %
+NATURAL TECH,Energizing Super Active - Saisonnier,1,91,91,45.4,45.4,8004608275381,Stock revente,20.00 %
+NATURAL TECH,Replumping shampooing,1,25,25,12.4,12.4,8004608256557,Stock revente,20.00 %
+NATURAL TECH,Replumping shampooing 100ml,14,21,294,10.5,147,8004608256823,Stock revente,20.00 %
+NATURAL TECH,Replumping conditionneur,0,23,0,0,0,8004608240419,Stock revente,20.00 %
+NATURAL TECH,Nourishing  Shampooing,3,25,75,12.4,37.2,8004608269113,Stock revente,20.00 %
+NATURAL TECH,Nourishing  Shampooing 100ml,4,21,84,10.5,42,8004608271444,Stock revente,20.00 %
+NATURAL TECH,Nourishing Super Active,1,0,,55.2,55.2,8004608230830,Stock technique,20.00 %
+NATURAL TECH,Nourishing Vegetarian Miracle masque,2,41,82,20.3,40.6,8004608269151,Stock revente,20.00 %
+NATURAL TECH,Beauty shampoo,1,0,,,,9008289000026,Stock revente,20.00 %
+SU,SU/Hair&Body wash,2,23,46,11.3,22.6,8004608261803,Stock revente,20.00 %
+SU,SU/Hair mask,1,31,31,15.1,15.1,8004608270591,Stock revente,20.00 %
+SU,SU/milk,4,34,136,16.8,67.2,8004608261780,Stock revente,20.00 %
+SU,SU/Hair&Body wash 100ml,1,19,19,9.3,9.3,8004608261810,Stock revente,20.00 %
+SU,SU/milk 50ml,0,20,0,0,0,8004608261797,Stock revente,20.00 %
+SU,Shampooing solide SU,1,21,21,10.3,10.3,8004608282570,Stock revente,20.00 %
+SU,SU/Protective Sun Cream SPF 30,0,31,0,0,0,8004608270614,Stock revente,20.00 %
+SU,SU/After sun,1,38,38,18.7,18.7,8004608270607,Stock revente,20.00 %
+SU,SU/Tan Maximizer,1,34,34,17,17,8004608270621,Stock revente,20.00 %
+SU,Boite shampooing solide,3,8,24,4.45,13.35,8004608282587,Stock revente,20.00 %
+POM'POT,LET IT GO CIRCLE masque,1,12,12,5.9,5.9,8004608264170,Stock revente,20.00 %
+POM'POT,THE QUICK FIX CIRCLE masque,1,12,12,5.9,5.9,8004608258216,Stock revente,20.00 %
+POM'POT,THE RENAISSANCE CIRCLE masque,2,12,24,5.9,11.8,8004608258230,Stock revente,20.00 %
+POM'POT,THE PURITY CIRCLE mask,2,12,24,5.9,11.8,8004608258179,Stock revente,20.00 %
+OROFLUIDO,Shampooing Lumière Argan,0,16,0,,,8432225127866,Stock revente,20.00 %
+OROFLUIDO,Soin Lumière Argan,0,16,0,,,8432225127880,Stock revente,20.00 %
+OROFLUIDO,Elixir à l'huile d'argan (100ml),1,34,34,,,8432225127859,Stock revente,20.00 %
+OROFLUIDO,Masque Lumière Argan,0,21,0,,,8432225127903,Stock revente,20.00 %
+OROFLUIDO,Elixir d'huile d'argan (30ml),1,15,15,,,8432225127842,Stock revente,20.00 %
+MYRIAM K,"Lissage Français Le Masque ""Lys Extrem""",1,33,33,249,249,3760205100444,Stock revente,20.00 %
+MYRIAM K,Fiber Cream 100ml,7,20,140,9.2,64.4,669316408063,Stock revente,20.00 %
+MYRIAM K,Masque La soif de l'Or,1,43,43,21.1,21.1,,Stock revente,20.00 %
+MYRIAM K,Shampooing myriam K,2,29,58,14.39,28.78,3760205103988,Stock revente,20.00 %
+AMERICAN CREW,FORMING CREAM ,5,25,125,12.15,60.75,738678181690,Stock revente,20.00 %
+AMERICAN CREW,Cream Pomade,5,25,125,12.15,60.75,669316434512,Stock revente,20.00 %
+AMERICAN CREW,Fiber Cream,5,23,115,11.45,57.25,669316408063,Stock revente,20.00 %
+AMERICAN CREW,CLASSIC FIBER,12,25,300,12.15,145.8,738678151853,Stock revente,20.00 %
+AMERICAN CREW,MATTE CLAY,4,25,100,12.15,48.6,669316457078,Stock revente,20.00 %
+AMERICAN CREW,MATTE CLAY SPRAY ,0,24,0,,,,Stock revente,20.00 %
+AMERICAN CREW,BOOST POWDER,2,27,54,13.3,26.6,738678250013,Stock revente,20.00 %
+AMERICAN CREW,BEARD FOAM CLEANSER,1,25,25,10.45,10.45,669316434505,Stock technique,20.00 %
+AMERICAN CREW,MOISTURIZING SHAVE CREAM,4,22,88,11,44,669316406106,Stock revente,20.00 %
+AMERICAN CREW,POST SHAVE COOLING LOTION,4,25,100,11.45,45.8,669316434802,Stock revente,20.00 %
+AMERICAN CREW,BEARD BALM,5,26,130,12.95,64.75,669316434673,Stock revente,20.00 %
+AMERICAN CREW,ULTRA GLIDING SHAVE OIL,1,0,,18.1,18.1,669316406076,Stock technique,20.00 %
+AMERICAN CREW,SHAVE CREAM,-1,26,-26,11.15,-11.15,738678000335,Stock revente,20.00 %
+AMERICAN CREW,AMERICAN CREW-PRECISION BLEND-3X40ML-MEDIUM ASH 5-6,0,0,,0,0,738678248331,Stock technique,20.00 %
+AMERICAN CREW,AMERICAN CREW-PRECISION BLEND-3X40ML-MEDIUM NATURAL 4-5,2,0,,19.6,39.2,738678248348,Stock technique,20.00 %
+AMERICAN CREW,Daily cleans shamp 1000 ml,1,0,,,,,Stock technique,20.00 %
+AMERICAN CREW,AC BOOST POWDER 20G,2,0,,,,7501015946879,Stock technique,20.00 %
+EQUAVE,EQUAVE HYDRATANT,0,28,0,0,0,,Stock revente,20.00 %
+EQUAVE,RP EQUAVE 3 PHASES 200ml,4,29,116,14.45,57.8,8432225137087,Stock revente,20.00 %
+EQUAVE,Trousse equave bleu avec brosse,2,30,60,15,30,8432225141046,Stock revente,20.00 %
+EQUAVE,RP EQUAVE HYDRO DET CONDITIONING 500ml,1,0,,28.6,28.6,8432225137001,Stock technique,20.00 %
+EQUAVE,RP EQUAVE SHAMPOO 485ml,0,0,,0,0,8432225137063,Stock technique,20.00 %
+LASHILE,Gummies Végans - GOOD SUN,0,25,0,,,3760302220380,Stock revente,20.00 %
+LASHILE,Compléments alimentaires Cheveux sublimes,0,25,0,,,3760302220373,Stock revente,20.00 %
+LASHILE,Anti-chutes - 60 Gummies Végans,4,25,100,12,48,3760302221349,Stock revente,20.00 %
+LASHILE,Coffret anti chute serviette offerte,6,57,342,39.75,238.5,,Stock revente,20.00 %
+HAIRDREAMS,Beauty shampoo - pour tout type de cheveux,1,15,15,,,9008289000019,Stock revente,20.00 %
+HAIRDREAMS,Regeneration Care - Soin intensif ,1,17,17,8.5,8.5,,Stock revente,20.00 %
+HAIRDREAMS,Protein shampoo - Pour cheveux secs et abîmés,1,15,15,7.5,7.5,,Stock revente,20.00 %
+HAIRDREAMS,Ph & shine - Soin brillance réequilibrant,1,21,21,10.3,10.3,,Stock revente,20.00 %
+HAIRDREAMS,Double action conditioner - Soin bi phase,1,17,17,7.5,7.5,,Stock revente,20.00 %
+HAIRDREAMS,Hair fluid - Fluide pour les pointes,1,17,17,7.5,7.5,,Stock revente,20.00 %
+HAIRDREAMS,Set de voyage,1,21,21,10.4,10.4,,Stock revente,20.00 %
+HAIRDREAMS,protein shampoo,1,0,,0,0,9008289000064,Stock technique,20.00 %
+HAIRDREAMS,regeneration care,1,0,,,,9008289000088,Stock technique,20.00 %
+HAIRDREAMS,volume shampoo,1,0,,,,9008289000040,Stock technique,20.00 %
+HAIRDREAMS,beauty shampoo,1,0,,,,,Stock technique,20.00 %
+MASK,000 Booster superéclaircissant,1,0,,13.8,13.8,8004608251828,Stock technique,20.00 %
+MASK,"2,11 Brun Cendré Intense",1,0,,13.8,13.8,8004608251316,Stock technique,20.00 %
+MASK,"33,0 Châtain Foncé Intense",3,0,,13.8,41.4,8004608251125,Stock technique,20.00 %
+MASK,"55,0 Châtain Clair Intense",0,0,,0,0,8004608251149,Stock technique,20.00 %
+MASK,"5,11 Châtain Clair Cendré Intense",4,0,,13.8,55.2,8004608251323,Stock technique,20.00 %
+MASK,"5,14 Châtain Cuivré Clair Cendré",0,0,,0,0,8004608251361,Stock technique,20.00 %
+MASK,"5,4 Châtain Clair Cuivré",4,0,,13.8,55.2,8004608251569,Stock technique,20.00 %
+MASK,"5,43 Chatain Clair Cuivré Doré",3,0,,13.8,41.4,8004608265122,Stock technique,20.00 %
+MASK,"5,56 Châtain Acajou Rouge",0,0,,0,0,8004608251668,Stock technique,20.00 %
+MASK,"5,61 Châtain Clair Rouge Cendré",2,0,,13.8,27.6,8004608251699,Stock technique,20.00 %
+MASK,"66,0 Blond Foncé Intense",1,0,,13.8,13.8,8004608251156,Stock technique,20.00 %
+MASK,"66,1 Blond Foncé Intense Cendré",3,0,,13.8,41.4,8004608274766,Stock technique,20.00 %
+MASK,"6,15 Blond Foncé Cendré Acajou",1,0,,13.8,13.8,8004608251392,Stock technique,20.00 %
+MASK,"6,18 Blond Foncé Cendré Vert",1,0,,13.8,13.8,8004608256601,Stock technique,20.00 %
+MASK,"6,71 Blond Foncé Beige Cendré",2,0,,13.8,27.6,8004608251729,Stock technique,20.00 %
+MASK,"77,0 Blond Intense",0,0,,0,0,8004608251163,Stock technique,20.00 %
+MASK,"7,1 Blond Cendré",4,0,,13.8,55.2,8004608251279,Stock technique,20.00 %
+MASK,"7,18 Blond Cendré Vert",1,0,,13.8,13.8,8004608266266,Stock technique,20.00 %
+MASK,"7,32 Blond Doré Irisé",2,0,,13.8,27.6,8004608251507,Stock technique,20.00 %
+MASK,"7,4 Blond Cuivré",3,0,,13.8,41.4,8004608251576,Stock technique,20.00 %
+MASK,"88,0 Blond Clair Intense",3,0,,13.8,41.4,8004608251170,Stock technique,20.00 %
+MASK,"88,1 Blond Clair Intense Cendré",3,0,,13.8,41.4,8004608274773,Stock technique,20.00 %
+MASK,"8,44 Blond Clair Cuivré Intense",4,0,,13.8,55.2,8004608251583,Stock technique,20.00 %
+MASK,"8,72 Blond Clair Beige Irisé",1,0,,13.8,13.8,8004608265153,Stock technique,20.00 %
+MASK,"99,0 Blond Très Clair Intense",2,0,,13.8,27.6,8004608251187,Stock technique,20.00 %
+MASK,"9,04 Blond Très Clair Naturel Cuivré",3,0,,13.8,41.4,8004608251590,Stock technique,20.00 %
+MASK,"9,1 Blond Très Clair Cendré",3,0,,13.8,41.4,8004608251293,Stock technique,20.00 %
+MASK,"9,11 Blond Très Clair Cendré Intense",1,0,,13.8,13.8,8004608256625,Stock technique,20.00 %
+MASK,"99,1 Blond Très Clair Intense Cendré",2,0,,13.8,27.6,8004608274780,Stock technique,20.00 %
+MASK,"9,22 Blond Très Clair Irisé Intense",1,0,,13.8,13.8,8004608268468,Stock technique,20.00 %
+MASK,"10,01 Blond Très Clair Platiné Naturel Cendré",2,0,,13.8,27.6,8004608251309,Stock technique,20.00 %
+MASK,"10,12 Blond Très Clair Platiné Cendré Irisé",2,0,,13.8,27.6,8004608251347,Stock technique,20.00 %
+MASK,"10,21 Blond Très Clair Platiné Irisé Cendré",2,0,,13.8,27.6,8004608260592,Stock technique,20.00 %
+MASK,"10,23 Blond Très Clair Platiné Irisé Doré",3,0,,13.8,41.4,8004608251439,Stock technique,20.00 %
+MASK,"0,25 Intensifier violet",0,0,,0,0,8004608247531,Stock technique,20.00 %
+MASK,"0,18 Intensifier cendré foncé cendré foncé",1,0,,13.8,13.8,8004608260868,Stock technique,20.00 %
+MASK,"0,66 Intensifier rouge",1,0,,13.8,13.8,8004608247524,Stock technique,20.00 %
+MASK,Activateur 20 vol,3,0,,10.9,32.7,8004608251842,Stock technique,20.00 %
+MASK,Activateur 10 vol0,4,0,,10.9,43.6,8004608251835,Stock technique,20.00 %
+MASK,Activateur 30 vol,4,0,,10.9,43.6,8004608251859,Stock technique,20.00 %
+VIEW,"VIEW 3,0 Châtain foncé",2,0,,10.3,20.6,8004608259930,Stock technique,20.00 %
+VIEW,"VIEW 4,45 Châtain cuivré acajou",1,0,,10.3,10.3,8004608260202,Stock technique,20.00 %
+VIEW,"VIEW 5,0 Châtain clair",2,0,,10.3,20.6,8004608259954,Stock technique,20.00 %
+VIEW,"VIEW 5,3 Châtain clair doré",2,0,,10.3,20.6,8004608260097,Stock technique,20.00 %
+VIEW,"VIEW 5,34 Châtain clair doré cuivré",2,0,,10.3,20.6,8004608260141,Stock technique,20.00 %
+VIEW,"VIEW 5,4 Chatain clair cuivé",5,0,,10.3,51.5,8004608276708,Stock technique,20.00 %
+VIEW,"VIEW 5,65 Châtain clair rouge acajou",1,0,,10.3,10.3,8004608260233,Stock technique,20.00 %
+VIEW,"VIEW 6,44 Blond foncé cuivré intense",3,0,,10.3,30.9,8004608260196,Stock technique,20.00 %
+VIEW,"VIEW 6,66 Blond foncé rouge intense",2,0,,10.3,20.6,8004608260240,Stock technique,20.00 %
+VIEW,"VIEW 7,0 Blond",3,0,,10.3,30.9,8004608259978,Stock technique,20.00 %
+VIEW,"VIEW 7,11 Blond cendré intense",0,0,,0,0,8004608260011,Stock technique,20.00 %
+VIEW,"VIEW 7,21 Blond irisé cendré",0,0,,0,0,8004608262121,Stock technique,20.00 %
+VIEW,"VIEW 7,34 Blond doré cuivré",1,0,,10.3,10.3,8004608269298,Stock technique,20.00 %
+VIEW,"VIEW 8,0 Blond clair",4,0,,10.3,41.2,8004608259985,Stock technique,20.00 %
+VIEW,"VIEW 8,1 Blond clair cendré",2,0,,10.3,20.6,8004608260004,Stock technique,20.00 %
+VIEW,"VIEW 8,18 Blond clair cendré vert",0,0,,0,0,8004608260073,Stock technique,20.00 %
+VIEW,"VIEW 8,23 Blond clair irisé doré",0,0,,0,0,8004608260110,Stock technique,20.00 %
+VIEW,"VIEW 9,0 Blond très clair",3,0,,10.3,30.9,8004608259992,Stock technique,20.00 %
+VIEW,"VIEW 9,22 Blond très clair irisé intense",0,0,,0,0,8004608260080,Stock technique,20.00 %
+VIEW,View 10,2,0,,9.7,19.4,,Stock technique,20.00 %
+VIEW,"Wiew 10,1",3,0,,9.7,29.1,,Stock technique,20.00 %
+VIEW,"VIEW 10,21 Blond très clair irisé cendré",0,0,,0,0,8004608271840,Stock technique,20.00 %
+VIEW,"View 10,27",0,0,,0,0,,Stock technique,20.00 %
+VIEW,View Quartz,2,0,,9.7,19.4,8004608260288,Stock technique,20.00 %
+VIEW,View Steel,2,0,,9.7,19.4,8004608262145,Stock technique,20.00 %
+VIEW,VIEW Ruby,1,0,,10,10,8004608276678,Stock technique,20.00 %
+VIEW,Wiew steel,2,0,,,,8004608262145,Stock technique,20.00 %
+VIEW,VIEW Bronze,1,0,,10,10,8004608276685,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Detoxifying Shampooing,1,0,,32.1,32.1,8004608256663,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Rebalancing Shampooing,2,0,,32.1,64.2,8004608256670,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Renewing Shampooing,0,0,,0,0,8004608255109,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Renewing Conditionneur Traitement,1,0,,46.6,46.6,8004608255123,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Replumping shampooing,2,0,,32.1,64.2,8004608256687,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Replumping conditionneur,1,0,,46.6,46.6,8004608240426,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Nourishing  Shampooing,2,0,,32.1,64.2,8004608269106,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Nourishing Keratin Wonder,1,0,,63,63,8004608269236,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Nourishing Vegetarian Miracle mask,1,0,,46.6,46.6,8004608269144,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Purifying Shampooing,1,0,,32.1,32.1,8004608236603,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Well Being Shampooing,1,0,,32.1,32.1,8004608256632,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Well Being Conditionneur,1,0,,46.6,46.6,8004608230779,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Calming Shampooing,1,0,,32.1,32.1,8004608256649,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,OI - conditionneur,2,0,,53.6,107.2,8004608266501,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,OI Shampooing,2,0,,37.7,75.4,8004608247647,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Alchemic conditionner argent,0,0,,0,0,8004608259084,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,OI - beurre,1,0,,56.9,56.9,8004608264583,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Alchemic conditionner chocolat,0,0,,0,0,8004608259046,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,HEART OF GLASS Shampooing,1,0,,35.9,35.9,8004608271673,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,HEART OF GLASS Conditionneur,1,0,,55.4,55.4,8004608271703,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,HEART OF GLASS Conditionneur,0,0,,0,0,8004608271710,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,HEART OF GLASS Treatment,1,0,,45.2,45.2,8004608271734,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Balayage Deco Powder,1,0,,38.1,38.1,8004608261957,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Nourishing Vegetarian Miracle conditionneur,1,0,,41.2,41.2,8004608269243,Stock technique,20.00 %
+SHAMPOOING TECHNIQUE,Replumping Hair Filler,0,0,,0,0,8004608240457,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 1 75ml/2.65oz,1,0,,13.55,13.55,8007376050006,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 3 75ml/2.65oz,7,0,,13.55,94.85,8007376050013,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 5 75ml/2.65oz,6,0,,13.55,81.3,8007376050037,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 5.1 75ml/2.65oz0,3,0,,13.55,40.65,8007376050129,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 5.12 75ml/2.65oz,6,0,,13.55,81.3,8007376050297,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 5.20 75ml/2.65oz,3,0,,13.55,40.65,8007376050303,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 5.4 75ml/2.65oz,2,0,,13.55,27.1,8007376050143,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 6 75ml/2.65oz,4,0,,13.55,54.2,8007376050044,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 6.1 75ml/2.65oz,2,0,,13.55,27.1,8007376050150,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 6.66 75ml/2.65oz,0,0,,0,0,8007376050372,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 7 75ml/2.65oz0,5,0,,13.55,67.75,8007376050051,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 7.1 75ml/2.65oz,1,0,,13.55,13.55,8007376050174,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 7.12 75ml/2.65oz,0,0,,0,0,8007376050389,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 7.24 75ml/2.65oz,3,0,,13.55,40.65,8007376054301,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 7.3 75ml/2.65oz,4,0,,13.55,54.2,8007376050181,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 7.32 75ml/2.65oz,3,0,,13.55,40.65,8007376050396,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 7.4 75ml/2.65oz*,2,0,,13.55,27.1,8007376050198,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 77.40  75 ml ,4,0,,13.55,54.2,,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 8 75ml/2.65oz,0,0,,0,0,8007376050068,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 8.04 75ml/2.65oz,3,0,,13.55,40.65,8007376050419,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 8.35 75ml/2.65oz,3,0,,13.55,40.65,8007376050433,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 9 75ml/2.65oz,3,0,,13.55,40.65,8007376050075,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 9.12 75ml/2.65oz,5,0,,13.55,67.75,8007376050440,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 9.24 75ml/2.65oz,5,0,,13.55,67.75,8007376050464,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 10 75ml/2.65oz,5,0,,13.55,67.75,8007376050082,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 011 75ml/2.65oz,5,0,,13.55,67.75,8007376050099,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME 10.04 75ml/2.65oz,5,0,,13.55,67.75,8007376050259,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME DEV 15 VOLUME 900ml,6,0,,11.55,69.3,8007376049963,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME DEV 25 VOLUME 900ml,8,0,,11.55,92.4,8007376049970,Stock technique,20.00 %
+Color Sublime Revlon ,RP RVL COLOR SUBLIME DEV 35 VOLUME 900ml1,2,0,,11.55,23.1,8007376049987,Stock technique,20.00 %
+MAGNET,RP MAGNET BLONDES 9 POWDER 750g,4,0,,58.65,234.6,8432225126777,Stock technique,20.00 %
+MAGNET,RP MAGNET BLONDES 7 POWER 750 g,0,0,,,,8432225134338,Stock technique,20.00 %
+MAGNET,MAGNET CLAY 8 POWDER 400gr,6,0,,40.8,244.8,8432225141916,Stock technique,20.00 %
+MAGNET,RP MAGNET  BLONDES DEVEL.20VOL 900ml,2,0,,13.6,27.2,8007376048676,Stock technique,20.00 %
+MAGNET,RP MAGNET  BLONDES DEVEL.30VOL 900ml,4,0,,13.6,54.4,8007376048683,Stock technique,20.00 %
+MAGNET,RP MAGNET TECHNICAL ADDITIVE 300ml,1,0,,32.9,32.9,8432225126784,Stock technique,20.00 %
+MAGNET,ANTI POROSITE,3,0,,18.25,54.75,8432225132877,Stock technique,20.00 %
+MAGNET,MAGNET POST TECHNICAL SHAMPOO 1000ml,1,0,,32,32,8432225136547,Stock technique,20.00 %
+MAGNET,VITALITYS Kit color off 100 ml + 100 ml + 200 ml,2,0,,,,8012603018940,Stock technique,20.00 %
+MAGNET,Magnet ultimate oil silver,2,35,70,17.85,35.7,8432225141909,Stock revente,20.00 %
+EXSPERIENCE,RP EKS BOOST UNIVERSAL GEL BASE 290ML,1,0,,26.3,26.3,8432225105567,Stock technique,20.00 %
+EXSPERIENCE,Boost Cocktail multivitaminée,1,0,,,,,Stock technique,20.00 %
+EXSPERIENCE,Boost Phase 0,1,0,,,,,Stock technique,20.00 %
+EXSPERIENCE,RP EKS RECONSTRUCT PHASE 2 500ml,2,0,,30.6,61.2,8432225098388,Stock technique,20.00 %
+EXSPERIENCE,RP EKS RECONSTRUCT PHASE 1 500ml,2,0,,30.6,61.2,8432225098371,Stock technique,20.00 %
+EXSPERIENCE,RP EKS RECONTRUST PHASE 3 250ml,2,0,,30.6,61.2,8432225098395,Stock technique,20.00 %
+NUTRICOLOR,RP NC FILTERS 1002 100ml,1,22,22,10.55,10.55,8007376046955,Stock mixte,20.00 %
+NUTRICOLOR,RP NC FILTERS 400 100ml,4,22,88,10.55,42.2,8007376047099,Stock mixte,20.00 %
+NUTRICOLOR,RP NC FILTERS 097 100ml,2,22,44,10.55,21.1,8007376047174,Stock mixte,20.00 %
+NUTRICOLOR,RP NC FILTERS 190 100ml,1,22,22,10.55,10.55,8007376047037,Stock mixte,20.00 %
+NUTRICOLOR,RP NC FILTERS 200 100ml,0,22,0,0,0,8007376047051,Stock mixte,20.00 %
+NUTRICOLOR,.523,3,0,,,,8007376057708,Stock mixte,20.00 %
+Finest Pigments,Finest Pigments Doré,1,0,,32.15,32.15,8004608224037,Stock technique,20.00 %
+Finest Pigments,Finest Pigments Rouge,1,0,,32.15,32.15,8004608224044,Stock technique,20.00 %
+Finest Pigments,Finest Pigments Cuivre,1,0,,32.15,32.15,8004608224051,Stock technique,20.00 %
+Crazy color,CRAZY COLOR 100ML PINKISSIMO 42,2,0,,5.99,11.98,5035832010427,Stock technique,20.00 %
+Crazy color,Crazy Color Aubergine,1,0,,2.27,2.27,5035832020501,Stock technique,20.00 %
+Crazy color,Crazy Color Violette,1,0,,2.27,2.27,5035832010434,Stock technique,20.00 %
+Crazy color,CRAZY COLOR 100ml LAVENDERTF-P,1,0,,2.27,2.27,5035832020549,Stock technique,20.00 %
+Revlonissimo colorsmetique,6DN,6,0,,11.05,66.3,8007376058415,Stock technique,20.00 %
+Revlonissimo colorsmetique,6.01,0,0,,,,8007376058064,Stock technique,20.00 %
+Revlonissimo colorsmetique,600,3,0,,11.05,33.15,8007376057876,Stock technique,20.00 %
+Revlonissimo colorsmetique,66.40,1,0,,11.05,11.05,8007376057173,Stock technique,20.00 %
+Revlonissimo colorsmetique,700,3,0,,11.05,33.15,8007376057890,Stock technique,20.00 %
+Revlonissimo colorsmetique,.713,4,0,,11.05,44.2,8007376057746,Stock technique,20.00 %
+Revlonissimo colorsmetique,8.21,0,0,,0,0,8007376058163,Stock technique,20.00 %
+Revlonissimo colorsmetique,9.21,2,0,,11.05,22.1,8007376058200,Stock technique,20.00 %
+Revlonissimo colorsmetique,10DN,3,0,,11.05,33.15,8007376058453,Stock technique,20.00 %
+Revlonissimo colorsmetique,10.21,0,0,,0,0,8007376057319,Stock technique,20.00 %
+Revlonissimo colorsmetique,10.31,1,0,,11.05,11.05,8007376057111,Stock technique,20.00 %
+Revlonissimo colorsmetique,.102,3,0,,11.05,33.15,8007376057623,Stock technique,20.00 %
+Revlonissimo colorsmetique,.523,2,0,,11.05,22.1,8007376057708,Stock technique,20.00 %
+Revlonissimo colorsmetique,.821,4,0,,11.05,44.2,8007376057784,Stock technique,20.00 %
+Revlonissimo colorsmetique,ACTIVATEUR 10VOL,1,0,,11.15,11.15,8007376059047,Stock technique,20.00 %
+Revlonissimo colorsmetique,ACTIVATEUR 20VOL,2,0,,11.15,22.3,8007376059054,Stock technique,20.00 %
+Permanente,RP GREAT FEELING PERM KIT,1,0,,17.45,17.45,8432225103150,Stock technique,20.00 %
+COFFRET DE NOEL,Heart of glass,2,58,116,29,58,8004608281627,Stock revente,20.00 %
+Materiel coiffure,Sèche cheveux,-10,0,,,,,Stock revente,20.00 %
+Materiel coiffure,Lisseur,-6,0,,,,,Stock revente,20.00 %
+OLAPLEX,OLAPLEX N°4 250ml,5,29.5,147.5,17.7,88.5,896364002756,Stock revente,20.00 %
+OLAPLEX,OLAPLEX N°5 250ml,-1,29.5,-29.5,17.7,-17.7,896364002763,Stock revente,20.00 %
+OLAPLEX,OLAPLEX N°3 100ml,1,29.5,29.5,19.95,19.95,896364002749,Stock revente,20.00 %
+OLAPLEX,OLAPLEX N°4P 250ml,0,29.5,0,,,850018802239,Stock revente,20.00 %
+OLAPLEX,OLAPLEX N°4 1000ml,1,0,,56,56,850018802444,Stock technique,20.00 %
+OLAPLEX,OLAPLEX N°5 1000ml ,1,0,,56,56,850018802451,Stock technique,20.00 %
+OLAPLEX,OLAPLEX N°4P 1000ML,1,0,,56,56,850045076061,Stock technique,20.00 %
+OLAPLEX,Olaplex Hair Bond Perfector 525ml,4,0,,,,896364002329,Stock technique,20.00 %
+OLAPLEX,Olaplex Hair Bond Multiplier 525ml,0,0,,,,896364002312,Stock technique,20.00 %
+OLAPLEX,OLAPLEX N°10,4,29.5,118,11.8,47.2,850056933155,Stock revente,20.00 %
+OLAPLEX,OLAPLEX BOND SHAPER CURL,1,0,,147.5,147.5,850056933148,Stock technique,20.00 %
+JOICO,1.0,0,0,,0,0,,Stock technique,20.00 %
+JOICO,4.0,0,0,,,,,Stock technique,20.00 %
+JOICO,5.0,2,0,,11.9,23.8,074469523677,Stock technique,20.00 %
+JOICO,5.08,3,0,,9.52,28.56,074469545716,Stock technique,20.00 %
+JOICO,5.07,0,0,,,,,Stock technique,20.00 %
+JOICO,6.0,0,0,,,,,Stock technique,20.00 %
+JOICO,6.08,4,0,,9.52,38.08,074469545655,Stock technique,20.00 %
+JOICO,6.03,0,0,,,,,Stock technique,20.00 %
+JOICO,7.0,0,0,,,,,Stock technique,20.00 %
+JOICO,7.01,3,0,,9.52,28.56,074469523738,Stock technique,20.00 %
+JOICO,7.02,1,0,,,,,Stock technique,20.00 %
+JOICO,8.0,0,0,,,,,Stock technique,20.00 %
+JOICO,8.01,3,0,,9.52,28.56,074469523684,Stock technique,20.00 %
+JOICO,8.03,0,0,,,,,Stock technique,20.00 %
+JOICO,9.02,0,0,,,,,Stock technique,20.00 %
+JOICO,10.0,0,0,,,,,Stock technique,20.00 %
+JOICO,6.07,0,0,,,,,Stock technique,20.00 %
+JOICO,7.07,0,0,,,,,Stock technique,20.00 %
+JOICO,8.07,0,0,,,,,Stock technique,20.00 %
+JOICO,5.08,0,0,,,,,Stock technique,20.00 %
+JOICO,6.08,0,0,,,,,Stock technique,20.00 %
+JOICO,5.04,0,0,,,,,Stock technique,20.00 %
+JOICO,6.04,0,0,,,,,Stock technique,20.00 %
+JOICO,7.04,0,0,,,,,Stock technique,20.00 %
+JOICO,8.04,0,0,,,,,Stock technique,20.00 %
+JOICO,Oxydant 22vol,1,0,,12,12,074469525190,Stock technique,20.00 %
+MOROCCANOIL,MOROCCANOIL TOUS TYPES DE CHEVEUX,6,40,240,29.7,178.2,7290116975252,Stock revente,20.00 %
+MOROCCANOIL,MOROCCANOIL CHEVEUX FINS,2,40,80,29.7,59.4,7290116975269,Stock revente,20.00 %
+UNIQONE,RP UNIQONE HAIR TREATMENT V1 150ML,4,25,100,12.3,49.2,8432225129785,Stock revente,20.00 %
+UNIQONE,UNIQONE CURL,2,32,64,15.95,31.9,8432225137506,Stock revente,20.00 %
+COFFRET DE NOEL,COFFRET FEMME ,0,15,0,,,,Stock revente,20.00 %
+COFFRET DE NOEL,COFFRET FEMME,0,30,0,,,,Stock revente,20.00 %
+COFFRET DE NOEL,COFFRET HOMME,0,49,0,,,,Stock revente,20.00 %
+COFFRET DE NOEL,COFFRET FEMME ,0,60,0,,,,Stock revente,20.00 %
+COFFRET DE NOEL,COFFRET HOMME,0,60,0,,,,Stock revente,20.00 %
+COFFRET DE NOEL,COFFRET HOMME,0,70,0,,,,Stock revente,20.00 %
+LOREAL,Metal Detox Shampoing Anti-Métal 1500 ml,1,0,,40,40,30160668,Stock technique,20.00 %
+LOREAL,Metal Detox Masque Anti-Métal 500 ml,1,0,,29.7,29.7,30163478,Stock technique,20.00 %
+LOREAL,Dialight 8.28 Blond Clair Irisé Mocca,0,0,,0,0,3474637003050,Stock technique,20.00 %
+LOREAL,Dialight 9.02 Milkshake Nacré 50 ml,6,0,,9.7,58.2,3474637003135,Stock technique,20.00 %
+LOREAL,Dialight 9.11 Milkshake Cendré Profond 50 ml,5,0,,9.7,48.5,3474637003333,Stock technique,20.00 %
+LOREAL,Dialight Pearls 9.18 Blond Très Clair Milkshake Cendré Mocca 50 ml,3,0,,9.7,29.1,3474637156602,Stock technique,20.00 %
+LOREAL,Dialight 10.02 Milkshake Naturel Nacré 50 ml,2,0,,9.7,19.4,3474637002855,Stock technique,20.00 %
+LOREAL,Dialight 10.12 Milkshake Glacé Nacré 50 ml,6,0,,9.7,58.2,3474637004613,Stock technique,20.00 %
+LOREAL,Dialight Pearls 10.82 Blond Très Très Clair Milkshake Mocca Irisé 50 ml,3,0,,9.7,29.1,3474637156527,Stock technique,20.00 %
+LOREAL,Diactivateurs Oxydant Spécifique 6 Vol 1000 ml,1,0,,13,13,3474630440395,Stock technique,20.00 %
+LOREAL,DIA COLOR 6.84 Blond foncé mocca cuivré,1,0,,11.35,11.35,3474637207649,Stock technique,20.00 %
+LOREAL,DIA COLOR 6.35  blond foncé doré acajou,1,0,,11.35,11.35,3474637266257,Stock technique,20.00 %
+LOREAL,Diactivateurs Oxydant Spécifique 9 Vol,1,0,,13.3,13.3,3474630440432,Stock technique,20.00 %
+LOREAL,Soin Lissant Professionnel,2,53,106,26.5,53,3474637153434,Stock mixte,20.00 %
+ALCHEMIC,Total,12,,468,,234,,,
+AMERICAN CREW,Total,52,,1136,,610.9,,,
+BIJOUX,Total,-75,,-900,,,,,
+COFFRET DE NOEL,Total,2,,116,,58,,,
+Color Sublime Revlon ,Total,106,,,,1404.3,,,
+Crazy color,Total,5,,,,18.79,,,
+EQUAVE,Total,7,,176,,116.4,,,
+EXSPERIENCE,Total,9,,,,209.9,,,
+Finest Pigments,Total,3,,,,96.45,,,
+HAIRDREAMS,Total,11,,123,,51.7,,,
+HEART OF GLASS,Total,18,,522,,258.9,,,
+JOICO,Total,17,,,,159.56,,,
+LASHILE,Total,10,,442,,286.5,,,
+LOREAL,Total,33,,106,,414.2,,,
+MAGNET,Total,25,,70,,716.35,,,
+MASK,Total,81,,,,1085.9,,,
+MORE INSIDE,Total,20,,544,,268.45,,,
+MOROCCANOIL,Total,8,,320,,237.6,,,
+MYRIAM K,Total,11,,274,,363.28,,,
+Materiel coiffure,Total,-16,,,,,,,
+NATURAL TECH,Total,66,,1537,,820.9,,,
+NUTRICOLOR,Total,11,,176,,84.4,,,
+OI,Total,20,,901,,447.7,,,
+OLAPLEX,Total,17,,265.5,,453.45,,,
+OROFLUIDO,Total,2,,49,,,,,
+POM'POT,Total,6,,72,,35.4,,,
+Permanente,Total,1,,,,17.45,,,
+Revlonissimo colorsmetique,Total,35,,,,387.05,,,
+SHAMPOOING SOLIDE,Total,2,,40,,20.6,,,
+SHAMPOOING TECHNIQUE,Total,25,,,,1025.7,,,
+SU,Total,14,,349,,173.55,,,
+UNIQONE,Total,6,,164,,81.1,,,
+VIEW,Total,46,,,,447.2,,,
+WE STAND,Total,0,,0,,,,,
+Stock mixte,Total,27,,685,,336.55,,,
+Stock revente,Total,154,,6096.5,,3816.53,,,
+Stock technique,Total,409,,169,,6432.6,,,
+Total,,590,,6950.5,,10585.68,,,
