@@ -8,8 +8,8 @@
 body,
 html {
   height: 100%;
-  background: linear-gradient(to bottom right, #181818, #282828);
-  color: white;
+  background: linear-gradient(to bottom right, #000000, #2d0349);
+  color: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
   align-items: center;

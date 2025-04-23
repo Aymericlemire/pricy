@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard | Pricy Premium</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <div class="dashboard-container">
+    <aside class="sidebar">
+      <h2>Pricy</h2>
+      <nav>
+        <ul>
+          <li><a href="#form">Ajouter</a></li>
+          <li><a href="#liste">Prestations</a></li>
+          <li><a href="#stats">Statistiques</a></li>
+        </ul>
+      </nav>
+    </aside>
+    <main class="content">
+      <header><h1>Dashboard Premium</h1></header>
+
+      <section class="card" id="form">
+        <h2>Ajouter une prestation</h2>
+        <form id="form-prestation">
+          <label for="nom">Nom de la prestation</label>
+          <input type="text" id="nom" required />
+
+          <label for="duree">Durée (heures)</label>
+          <input type="number" id="duree" required />
+
+          <label for="produits">Produits utilisés</label>
+          <select id="produits" multiple></select>
+
+          <button type="submit">Ajouter</button>
+        </form>
+      </section>
+
+      <section class="card" id="liste">
+        <h2>Liste des prestations</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Nom</th>
+              <th>Durée</th>
+              <th>Coût produits</th>
+              <th>Prix conseillé</th>
+            </tr>
+          </thead>
+          <tbody id="prestation-liste"></tbody>
+        </table>
+      </section>
+
+      <section class="card" id="stats">
+        <h2>Statistiques visuelles</h2>
+        <canvas id="statChart" height="100"></canvas>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const coutHoraire = 50;
+    const prestations = [];
+    let produitsListe = [];
+
+    fetch("produits-davines.json")
+      .then((res) => res.json())
+      .then((data) => {
+        produitsListe = data;
+        const select = document.getElementById("produits");
+        data.forEach((p) => {
+          const option = document.createElement("option");
+          option.value = p.nom;
+          option.textContent = `${p.nom} - ${p.prix}€`;
+          select.appendChild(option);
+        });
+      });
+
+    document.getElementById("form-prestation").addEventListener("submit", function (e) {
+      e.preventDefault();
+
+      const nom = document.getElementById("nom").value;
+      const duree = parseFloat(document.getElementById("duree").value);
+      const produits = Array.from(document.getElementById("produits").selectedOptions).map(opt => opt.value);
+
+      const coutProduits = produits.reduce((sum, nomProduit) => {
+        const p = produitsListe.find(prod => prod.nom === nomProduit);
+        return sum + (p ? p.prix : 0);
+      }, 0);
+
+      const prixConseille = (duree * coutHoraire) + coutProduits;
+
+      prestations.push({ nom, duree, coutProduits, prixConseille });
+      updatePrestationListe();
+      updateChart();
+      e.target.reset();
+    });
+
+    function updatePrestationListe() {
+      const tbody = document.getElementById("prestation-liste");
+      tbody.innerHTML = "";
+      prestations.forEach(p => {
+        tbody.innerHTML += `<tr><td>${p.nom}</td><td>${p.duree}h</td><td>${p.coutProduits.toFixed(2)}€</td><td>${p.prixConseille.toFixed(2)}€</td></tr>`;
+      });
+    }
+
+    function updateChart() {
+      const labels = prestations.map(p => p.nom);
+      const data = prestations.map(p => p.prixConseille);
+      const ctx = document.getElementById("statChart").getContext("2d");
+      if (window.statChart) window.statChart.destroy();
+      window.statChart = new Chart(ctx, {
+        type: "bar",
+        data: {
+          labels,
+          datasets: [{
+            label: "Prix conseillé (€)",
+            backgroundColor: "#4caf50",
+            data
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      });
+    }
+  </script>
+</body>
+</html>
